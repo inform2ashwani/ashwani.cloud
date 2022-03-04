@@ -86,9 +86,10 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Backend Development",
       fileName: "DataScienceImg",
       skills: [
+        "⚡ Asp.net, C#,SQL Server,Dot net Core,Aws,Azure,MVC,VB.net etc.",
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",

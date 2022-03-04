@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Ashwani Kumar",
   logo_name: "Ashwani Cloud",
-  nickname: ".net Core/Aws/Azure/C#",
+  nickname: ".Net/Cloud/C#",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.Having 11+ years of experience.",
   resumeLink: "#",

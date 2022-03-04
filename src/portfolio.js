@@ -499,7 +499,7 @@ const experience = {
           company: "Legato Health Technology",
           company_url: "#",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
+          duration: "June 2010 - PRESENT",
           location: "Hyderabad, Telangana",
           description:
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
@@ -510,7 +510,7 @@ const experience = {
           company: "Muffito Incorporation",
           company_url: "#",
           logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
+          duration: "May 2008 - Oct 2008",
           location: "Pune, Maharashtra",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
@@ -521,7 +521,7 @@ const experience = {
           company: "FreeCopy Pvt. Ltd.",
           company_url: "#",
           logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
+          duration: "Nov 2007 - Dec 2007",
           location: "Ahmedabad, Gujarat",
           description:
             "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
@@ -537,7 +537,7 @@ const experience = {
           company: "Delhivery Pvt. Ltd.",
           company_url: "#",
           logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
+          duration: "May 2009 - Sept 2009",
           location: "Gurgaon, Haryana",
           description:
             "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
@@ -548,7 +548,7 @@ const experience = {
           company: "Intel Indexer LLC",
           company_url: "#",
           logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
+          duration: "Nov 2008 - Dec 2008",
           location: "Work From Home",
           description:
             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
@@ -564,7 +564,7 @@ const experience = {
           company: "Google",
           company_url: "#",
           logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
+          duration: "June 2009 - April 2010",
           location: "Hyderabad, Telangana",
           description:
             "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
@@ -575,7 +575,7 @@ const experience = {
           company: "Microsoft",
           company_url: "https://www.microsoft.com/",
           logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
+          duration: "Aug 2009 - May 2010",
           location: "Hyderabad, Telangana",
           description:
             "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
@@ -586,7 +586,7 @@ const experience = {
           company: "Mozilla",
           company_url: "https://www.mozilla.org/",
           logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
+          duration: "Oct 2009 - May 2010",
           location: "Kurnool, Andhra Pradesh",
           description:
             "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
@@ -597,7 +597,7 @@ const experience = {
           company: "DSC IIITDM Kurnool",
           company_url: "#",
           logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
+          duration: "Jan 2008 - May 2010",
           location: "Kurnool, Andhra Pradesh",
           description:
             "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
@@ -608,7 +608,7 @@ const experience = {
           company: "Github",
           company_url: "https://github.com/",
           logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
+          duration: "July 2009 - PRESENT",
           location: "Work From Home",
           description:
             "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
@@ -651,8 +651,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    subtitle: "Noida,Uttar Pradesh - 201301",
     avatar_image_path: "address_image.svg",
     location_map_link: "#",
   },

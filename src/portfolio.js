@@ -496,33 +496,66 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
+          title: "Sr Technical Leader",
+          company: "Espire Infolabs Pvt. Ltd",
           company_url: "#",
-          logo_path: "legato_logo.png",
-          duration: "June 2010 - PRESENT",
-          location: "Hyderabad, Telangana",
+          logo_path: "espire.jpg",
+          duration: "June 2021 - PRESENT",
+          location: "Gurgaon, Hariyana",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I am working on Insurance domain. The projects involve automation for process improvements and for significantly enhancing the process. I am currently working on .net and aws. Our goal is to make robust system using cloud and .net.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
+          title: "Sr Engineer-II",
+          company: "Primus Software Solutions Pvt Ltd",
+          company_url: "#",
+          logo_path: "legato_logo.png",
+          duration: "June 2020 - May 2021",
+          location: "Noida, UP",
+          description:
+            "I am working on Insurance domain. The projects involve automation for process improvements and for significantly enhancing the process. I am currently working on .net and aws. Our goal is to make robust system using cloud and .net.",
+          color: "#0879bf",
+        },
+        {
+          title: "Sr Engineer",
+          company: "Idemia (Syscom Corporation Pvt Ltd)",
+          company_url: "#",
+          logo_path: "idemia.png",
+          duration: "Nov 2018 - May 2020",
+          location: "Noida, UP",
+          description:
+            "I am working on Insurance/Banking domain. The projects involve automation for process improvements and for significantly enhancing the process. I am currently working on .net and aws. Our goal is to make robust system using cloud and .net.",
+          color: "#0879bf",
+        },
+        {
+          title: "Sr Engineer",
+          company: "Loyalty Prime",
+          company_url: "#",
+          logo_path: "legato_logo.png",
+          duration: "Oct 2017 - Nov 2018",
+          location: "Noida, UP",
+          description:
+            "I am working on Insurance/Banking domain. The projects involve automation for process improvements and for significantly enhancing the process. I am currently working on .net and aws. Our goal is to make robust system using cloud and .net.",
+          color: "#0879bf",
+        },
+        {
+          title: "Team Leader/Sr Engineer",
+          company: "Micro Solutions",
           company_url: "#",
           logo_path: "muffito_logo.png",
-          duration: "May 2008 - Oct 2008",
-          location: "Pune, Maharashtra",
+          duration: "May 2013 - Oct 2017",
+          location: "Noida, UP",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "I have created complete Application for manage online and offline store with warehouse. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
+          title: "Software Developer",
           company: "FreeCopy Pvt. Ltd.",
           company_url: "#",
           logo_path: "freecopy_logo.png",
-          duration: "Nov 2007 - Dec 2007",
+          duration: "Nov 2012 - Dec 2013",
           location: "Ahmedabad, Gujarat",
           description:
             "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
@@ -641,20 +674,21 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Asp.net, C#, Dot Net Core, Sql Server, Asp, Vb, ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "#",
+    link: "https://ashwani-cloud.blogspot.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle: "Noida,Uttar Pradesh - 201301",
     avatar_image_path: "address_image.svg",
-    location_map_link: "#",
+    location_map_link:
+      "https://www.google.com/maps/dir/28.5866396,77.4357733/ashwani+cloud/@28.5843898,77.4367726,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390cef94570f3a63:0xdab6e12b6ae29fcb!2m2!1d77.4535237!2d28.5786456#",
   },
   phoneSection: {
     title: "Phone Number",
